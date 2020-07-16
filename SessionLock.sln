@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30309.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SessionLock.AspnetCore", "SessionLock.AspnetCore\SessionLock.AspnetCore.csproj", "{C88E7091-3924-4378-8CFD-FF30A82C1DD2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SessionLock.AspnetCore", "SessionLock.AspnetCore\SessionLock.AspnetCore.csproj", "{C88E7091-3924-4378-8CFD-FF30A82C1DD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SessionLock.AspnetFramework", "SessionLock.AspnetFramework\SessionLock.AspnetFramework.csproj", "{1A57310A-966F-490F-8289-756B440FFAD6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{C88E7091-3924-4378-8CFD-FF30A82C1DD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C88E7091-3924-4378-8CFD-FF30A82C1DD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C88E7091-3924-4378-8CFD-FF30A82C1DD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A57310A-966F-490F-8289-756B440FFAD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A57310A-966F-490F-8289-756B440FFAD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A57310A-966F-490F-8289-756B440FFAD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A57310A-966F-490F-8289-756B440FFAD6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
