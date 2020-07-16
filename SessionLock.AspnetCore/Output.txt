@@ -1,0 +1,60 @@
+﻿info: SessionLock.AspnetCore.Controllers.HomeController[0]
+      9abb3c1d-38ca-72f3-dd3d-80bc07a7aaf4 user2
+info: SessionLock.AspnetCore.Controllers.HomeController[0]
+      9abb3c1d-38ca-72f3-dd3d-80bc07a7aaf4 user1
+info: SessionLock.AspnetCore.Controllers.HomeController[0]
+      9abb3c1d-38ca-72f3-dd3d-80bc07a7aaf4 user2
+info: SessionLock.AspnetCore.Controllers.HomeController[0]
+      9abb3c1d-38ca-72f3-dd3d-80bc07a7aaf4 user11
+info: SessionLock.AspnetCore.Controllers.HomeController[0]
+      9abb3c1d-38ca-72f3-dd3d-80bc07a7aaf4 user1
+info: SessionLock.AspnetCore.Controllers.HomeController[0]
+      9abb3c1d-38ca-72f3-dd3d-80bc07a7aaf4 user11
+info: SessionLock.AspnetCore.Controllers.HomeController[0]
+      9abb3c1d-38ca-72f3-dd3d-80bc07a7aaf4 user2
+info: SessionLock.AspnetCore.Controllers.HomeController[0]
+      9abb3c1d-38ca-72f3-dd3d-80bc07a7aaf4 user1
+info: SessionLock.AspnetCore.Controllers.HomeController[0]
+      9abb3c1d-38ca-72f3-dd3d-80bc07a7aaf4 user11
+info: SessionLock.AspnetCore.Controllers.HomeController[0]
+      9abb3c1d-38ca-72f3-dd3d-80bc07a7aaf4 user2
+info: SessionLock.AspnetCore.Controllers.HomeController[0]
+      9abb3c1d-38ca-72f3-dd3d-80bc07a7aaf4 user1
+info: SessionLock.AspnetCore.Controllers.HomeController[0]
+      9abb3c1d-38ca-72f3-dd3d-80bc07a7aaf4 user2
+info: SessionLock.AspnetCore.Controllers.HomeController[0]
+      9abb3c1d-38ca-72f3-dd3d-80bc07a7aaf4 user11
+info: SessionLock.AspnetCore.Controllers.HomeController[0]
+      9abb3c1d-38ca-72f3-dd3d-80bc07a7aaf4 user1
+info: SessionLock.AspnetCore.Controllers.HomeController[0]
+      9abb3c1d-38ca-72f3-dd3d-80bc07a7aaf4 user11
+info: SessionLock.AspnetCore.Controllers.HomeController[0]
+      9abb3c1d-38ca-72f3-dd3d-80bc07a7aaf4 user2
+info: SessionLock.AspnetCore.Controllers.HomeController[0]
+      9abb3c1d-38ca-72f3-dd3d-80bc07a7aaf4 user1
+info: SessionLock.AspnetCore.Controllers.HomeController[0]
+      9abb3c1d-38ca-72f3-dd3d-80bc07a7aaf4 user11
+info: SessionLock.AspnetCore.Controllers.HomeController[0]
+      9abb3c1d-38ca-72f3-dd3d-80bc07a7aaf4 user2
+info: SessionLock.AspnetCore.Controllers.HomeController[0]
+      9abb3c1d-38ca-72f3-dd3d-80bc07a7aaf4 user1
+info: SessionLock.AspnetCore.Controllers.HomeController[0]
+      9abb3c1d-38ca-72f3-dd3d-80bc07a7aaf4 user2
+info: SessionLock.AspnetCore.Controllers.HomeController[0]
+      9abb3c1d-38ca-72f3-dd3d-80bc07a7aaf4 user11
+info: SessionLock.AspnetCore.Controllers.HomeController[0]
+      9abb3c1d-38ca-72f3-dd3d-80bc07a7aaf4 user1
+info: SessionLock.AspnetCore.Controllers.HomeController[0]
+      9abb3c1d-38ca-72f3-dd3d-80bc07a7aaf4 user2
+info: SessionLock.AspnetCore.Controllers.HomeController[0]
+      9abb3c1d-38ca-72f3-dd3d-80bc07a7aaf4 user11
+info: SessionLock.AspnetCore.Controllers.HomeController[0]
+      9abb3c1d-38ca-72f3-dd3d-80bc07a7aaf4 user1
+info: SessionLock.AspnetCore.Controllers.HomeController[0]
+      9abb3c1d-38ca-72f3-dd3d-80bc07a7aaf4 user11
+info: SessionLock.AspnetCore.Controllers.HomeController[0]
+      9abb3c1d-38ca-72f3-dd3d-80bc07a7aaf4 user2
+info: SessionLock.AspnetCore.Controllers.HomeController[0]
+      9abb3c1d-38ca-72f3-dd3d-80bc07a7aaf4 user1
+info: SessionLock.AspnetCore.Controllers.HomeController[0]
+      9abb3c1d-38ca-72f3-dd3d-80bc07a7aaf4 user11
