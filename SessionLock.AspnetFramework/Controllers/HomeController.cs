@@ -1,7 +1,6 @@
 ﻿using System.Diagnostics;
 using System.Threading;
 using System.Web.Mvc;
-using System.Web.SessionState;
 
 namespace SessionLock.AspnetFramework.Controllers
 {
